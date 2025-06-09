@@ -4,9 +4,8 @@ PRINTBOOK: Introduction Assessment Test SY0-701 Certification Exam Objective Map
 
 LEARN GO WITH POCKET SIZED PROJECTS
 
-Currently Finished Chapter
-2.1.1 Our first program: main.go 
+Currently Finished Chapter 2.1.
 
 About to Start 
-EXAMPLE VS TEST
+2.2 Are you a polyglot?
 
