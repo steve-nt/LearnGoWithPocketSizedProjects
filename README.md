@@ -1,3 +1,7 @@
+CompTIA Security+ Study Guide with over 500 Practice Test Questions
+AUDIO:
+BOOK :
+
 LEARN GO WITH POCKET SIZED PROJECTS
 
 Currently Finished Chapter
@@ -5,3 +9,4 @@ Currently Finished Chapter
 
 About to Start 
 EXAMPLE VS TEST
+
