@@ -7,5 +7,5 @@ LEARN GO WITH POCKET SIZED PROJECTS
 Currently Finished Chapter 2.1.
 
 About to Start 
-2.2 Are you a polyglot?
+2.3 Supporting more languages with a phrasebook
 
